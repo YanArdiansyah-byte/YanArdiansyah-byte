@@ -7,7 +7,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://minimalistic-wallpaper.demolab.com/?random=3" alt="background" style="width:100%; border-radius:10px;" />
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=3" alt="background" style="width:100%; border-radius:10px;" z-index="-1" />
 </p>
 
 
