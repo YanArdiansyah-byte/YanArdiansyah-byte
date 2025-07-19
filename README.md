@@ -54,6 +54,14 @@
 
 ---
 
+## 📊 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+---
+
 <p align="center">
   Terima kasih sudah mampir ke profil saya! 🌟
 </p>
