@@ -6,6 +6,10 @@
 ╚═╝░░░░░░╚════╝░╚═╝░░╚══╝
 </pre>
 
+https://minimalistic-wallpaper.demolab.com/?random=1
+https://minimalistic-wallpaper.demolab.com/?random=2
+https://minimalistic-wallpaper.demolab.com/?random=3
+
 <h1 align="center">Hi there, I'm Yan 👋</h1>
 
 <p align="center">
