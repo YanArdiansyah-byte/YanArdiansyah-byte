@@ -72,6 +72,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanArdiansyah-byte&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+### 🎮 Mini Game
+- [🕹 Pac-Man](https://yan-dev.github.io/pacman/)
+- [🌌 Wallpaper Viewer](https://yan-dev.github.io/)
+
+---
 
 <p align="center">
   Terima kasih sudah mampir ke profil saya! 🌟
