@@ -63,5 +63,10 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanArdiansyah-byte&layout=compact&theme=tokyonight" />
+</p>
+
+
+<p align="center">
   Terima kasih sudah mampir ke profil saya! 🌟
 </p>
