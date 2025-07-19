@@ -5,9 +5,10 @@
 ██║░░░░░╚█████╔╝██║░╚███║
 ╚═╝░░░░░░╚════╝░╚═╝░░╚══╝
 </pre>
-<img src="https://minimalistic-wallpaper.demolab.com/?random=1
-https://minimalistic-wallpaper.demolab.com/?random=2
-https://minimalistic-wallpaper.demolab.com/?random=3">
+
+<p align="center">
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=3" alt="background" style="width:100%; border-radius:10px;" />
+</p>
 
 
 <h1 align="center">Hi there, I'm Yan 👋</h1>
