@@ -75,8 +75,8 @@
 ---
 
 ### 🎮 Mini Game
-- [🕹 Pac-Man](https://yan-dev.github.io/pacman/)
-- [🌌 Wallpaper Viewer](https://yan-dev.github.io/)
+- [🕹 Pac-Man](https://YanArdiansyah-byte.github.io/pacman/)
+- [🌌 Wallpaper Viewer](https://YanArdiansyah-byte.github.io/)
 
 ---
 
