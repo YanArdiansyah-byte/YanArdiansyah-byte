@@ -57,7 +57,7 @@
 ## 📊 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanArdiansyah-byte&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
