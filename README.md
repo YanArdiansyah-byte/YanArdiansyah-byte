@@ -6,10 +6,6 @@
 ╚═╝░░░░░░╚════╝░╚═╝░░╚══╝
 </pre>
 
-<p align="center">
-  <img src="https://minimalistic-wallpaper.demolab.com/?random=3" alt="background" style="width:100%; border-radius:10px;" z-index="-1" />
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=YanArdiansyah-byte-dev&color=blue)
 ![Followers](https://img.shields.io/github/followers/YanArdiansyah-byte?label=Follow&style=social)
 
