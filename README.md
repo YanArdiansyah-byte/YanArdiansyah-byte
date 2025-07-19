@@ -39,7 +39,7 @@
 
 ### ✨ Tentang Saya
 
-- 👨‍🎓 Saat ini masih belajar dan mengembangkan kemampuan web development
+- 👨‍🎓 Saat ini masih belajar dan mengembangkan kemampuan web development maupun developer
 - 🔍 Suka eksplorasi proyek-proyek baru dan open source
 - ☕ Sering ngoding sambil ngopi
 
