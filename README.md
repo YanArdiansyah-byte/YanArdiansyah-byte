@@ -41,7 +41,7 @@
 
 ### 📌 Proyek Unggulan
 
-- 🔢 [Kalkulator Sederhana](https://github.com/YOUR_USERNAME/kalkulator-sederhana)  
+- 🔢 [Kalkulator Sederhana](https://github.com/YanArdiansyah-byte/kalkulator-sederhana)  
   Proyek kalkulator berbasis HTML, CSS, dan JavaScript.
 
 ---
@@ -74,11 +74,6 @@
 
 ---
 
-### 🎮 Mini Game
-- [🕹 Pac-Man](https://YanArdiansyah-byte.github.io/pacman/)
-- [🌌 Wallpaper Viewer](https://YanArdiansyah-byte.github.io/)
-
----
 
 <p align="center">
   Terima kasih sudah mampir ke profil saya! 🌟
